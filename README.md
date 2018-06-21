@@ -1,14 +1,35 @@
-# Shred_AR
-🏄🏻 My first Augmented Reality App, letting you shred your Reality 🏄🏻
+# 🏄 ShredAR 🏄🏻
+
+ShredAR teaches you shredding tricks with Augmented Reality!
 
 
-## Applications You Need to Install
+## Installing ShredAR 
+
+Just download it from the App Store [here]().
+
+### Current Features
+
+* Skateboarding
+     - How to Ollie
+
+
+
+-------
+
+## Developing
+
+### Features to be Added
+
+* Add other sports such as snowboarding, surf, bmx.
+
+
+### Applications You Need to Install
 
 1. [XCode 9](http://adcdownload.apple.com/Developer_Tools/Xcode_9_beta_2/Release_Notes_for_Xcode_9_beta_2.pdf).
 2. [Unity](https://unity3d.com/unity/beta/unity2017.1.0b5).
 3. [Unity ARKit Plugin](https://assetstore.unity.com/packages/essentials/tutorial-projects/unity-arkit-plugin-92515).
 
-## Building a First Apple ARKit AR App
+### Building a First Apple ARKit AR App
 
 1. Create a new project and then, in the Project window, pull the finder window with “unity-arkit-plugin.unitypackage” to the front.
 2. Click on the Import button at the bottom of the box, in the Project window, double-click the file titled UnityARKitScene.
@@ -21,3 +42,11 @@ Returning to the Build Settings window, click on the Build button, save your pro
 8. Plug your iPhone or iPad plugged into your computer and clique play at the top left portion of the screen.
 9. Unity will now compile your project.
 10. That's it! Using your phone camera, bring some stationary object into view on your device screen. You will see point clouds superimposed in AR across the object. 
+
+### Learning References
+
+* [AR for iOS](https://www.apple.com/ios/augmented-reality/).
+* [https://developer.apple.com/documentation/arkit/building_your_first_ar_experience](https://developer.apple.com/documentation/arkit/building_your_first_ar_experience).
+* [The Complete iOS 11 ARKit Developer Course](https://www.udemy.com/ios11augmentedrealitycourse/learn/v4/).
+* [Augmented Reality Portal using Apple ARKit framework ](https://www.udemy.com/arkit-portal-learn-how-to-create-a-portal-using-arkit/learn/v4/overview)
+
