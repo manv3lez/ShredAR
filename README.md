@@ -43,7 +43,6 @@ Returning to the Build Settings window, click on the Build button, save your pro
 9. Unity will now compile your project.
 10. That's it! Using your phone camera, bring some stationary object into view on your device screen. You will see point clouds superimposed in AR across the object. 
 
-### Learning References
 
 ### Learning References
 
