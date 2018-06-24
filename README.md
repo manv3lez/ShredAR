@@ -45,6 +45,7 @@ Returning to the Build Settings window, click on the Build button, save your pro
 
 ### Learning References
 
+* [My blog post on 'To All the AR & VR Groms Out There'](http://bt3gl.github.io/to-all-the-ar-vr-groms-out-there.html).
 * [AR for iOS](https://www.apple.com/ios/augmented-reality/).
 * [https://developer.apple.com/documentation/arkit/building_your_first_ar_experience](https://developer.apple.com/documentation/arkit/building_your_first_ar_experience).
 * [The Complete iOS 11 ARKit Developer Course](https://www.udemy.com/ios11augmentedrealitycourse/learn/v4/).
